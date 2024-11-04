@@ -10,11 +10,11 @@ I'm a passionate developer 😎 always eager to learn new technologies and contr
 ### **Projects 🤪**
 
 ### **Let's connect!**
-* **GitHub:** [Your GitHub profile link]
+* **GitHub:** 
 
 
 ### **GitHub Stat 🥹**
-
+[my stat] (https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaelcode&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) 
 
 ### **✨Hacktoberfest 2024 🚀✨**
 
