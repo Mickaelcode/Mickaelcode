@@ -1,16 +1,25 @@
-## Hi there 👋
+## **Hi, I'm Mickaël!** 
 
-<!--
-**Mickaelcode/Mickaelcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **About Me**
+I'm a passionate developer always eager to learn new technologies and contribute to open-source projects. I've recently participated in Hacktoberfest, contributing to various open-source initiatives.
 
-Here are some ideas to get you started:
+### **Skills**
+* **Languages:** JavaScript, TypeScript, Python (basics)
+* **Frameworks/Libraries:** Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Projects**
+* **Project 1:** [Link to your project] - A brief description of your project and what it does.
+* **Project 2:** [Link to your project] - A brief description of your project and what it does.
+
+### **Let's connect!**
+* **GitHub:** [Your GitHub profile link]
+* **LinkedIn:** [Your LinkedIn profile link]
+* **Twitter:** [Your Twitter profile link]
+
+### **GitHub Stats**
+[Image of your GitHub stats card]
+
+### **Hacktoberfest 2023**
+[Your Hacktoberfest badge]
+
+**Feel free to reach out if you have any questions or want to collaborate on a project!**
