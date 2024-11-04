@@ -18,4 +18,7 @@ I'm a passionate developer, always eager to learn new technologies and contribut
 
 ### **✨ Hacktoberfest 2024 🚀✨**
 
+[![An image of @mickaelcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mickaelcode)](https://holopin.io/@mickaelcode)
+
+
 **Feel free to reach out if you have any questions or want to collaborate on a project!**
