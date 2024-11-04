@@ -8,7 +8,6 @@ I'm a passionate developer, always eager to learn new technologies and contribut
 * **Frameworks/Libraries:** Express.js
 
 ### **Projects**
-(Describe your notable projects here!)
 
 ### **Let's Connect!**
 * **GitHub:** [Mickaelcode](https://github.com/Mickaelcode)
