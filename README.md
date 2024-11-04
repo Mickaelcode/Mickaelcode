@@ -1,22 +1,21 @@
-## **Hi👋, I'm Mickaël!😁** 
+## **Hi 👋, I'm Mickaël! 😁**
 
 ### **About Me 🤗**
-I'm a passionate developer 😎 always eager to learn new technologies and contribute to open-source projects🤩. I've recently participated in Hacktoberfest✨🥰, contributing to open-source initiatives☺️.
+I'm a passionate developer, always eager to learn new technologies and contribute to open-source projects. Recently, I participated in Hacktoberfest 2024, making contributions to open-source initiatives!
 
-### **Skills 😋**
-* **Languages 🤯:** JavaScript⭐, 📘TypeScript, 🐍Python (basics)
-* **Frameworks/Libraries 🙂:** Express.js
+### **Skills**
+* **Languages:** JavaScript, TypeScript, Python (basic)
+* **Frameworks/Libraries:** Express.js
 
-### **Projects 🤪**
+### **Projects**
+(Describe your notable projects here!)
 
-### **Let's connect!**
-* **GitHub:** 
+### **Let's Connect!**
+* **GitHub:** [Mickaelcode](https://github.com/Mickaelcode)
 
+### **GitHub Stats**
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaelcode&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/Mickaelcode)
 
-### **GitHub Stat 🥹**
-[my stat] (https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaelcode&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) 
+### **✨ Hacktoberfest 2024 🚀✨**
 
-### **✨Hacktoberfest 2024 🚀✨**
-
-
-**Feel free to reach out if you have any questions or want to collaborate on a project! 😜**
+**Feel free to reach out if you have any questions or want to collaborate on a project!**
