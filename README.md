@@ -1,5 +1,5 @@
 ## **Hi 👋, I'm Mickaël! 😁**
-
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 ### **About Me 🤗**
 I'm a passionate developer, always eager to learn new technologies and contribute to open-source projects. Recently, I participated in Hacktoberfest 2024, making contributions to open-source initiatives!
 
