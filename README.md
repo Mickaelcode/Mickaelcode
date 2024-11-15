@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Mickaël Andjt👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mickaelcode.Mickaelcode&left_color=royalblue&right_color=black"  />
 <h3 align="center"> A beginner of programming </h3>
 
 ❤️ I love python (have some basics understand), JavaScript/Typescript (React) on frontend and Node.js (Express) with PostgreSQL on backend
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 </div>
 
 ## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Mickaelcode&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/github-contribution-grid-snake-dark.svg)
