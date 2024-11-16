@@ -17,6 +17,10 @@
 </picture>
 
 ---
+## Badge
+[![An image of @mickaelcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mickaelcode)](https://holopin.io/@mickaelcode)
+
+---
 
 ## About Me
 - 😄 **Current Status**: Software Engineering Student (Second Year)  
