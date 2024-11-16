@@ -9,6 +9,14 @@
 ✨ I study: Python, JavaScript, TypeScript, Node.js, React, Express.js, and Java 🤪
 
 ---
+## Feeding...
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
 ## About Me
 - 😄 **Current Status**: Software Engineering Student (Second Year)  
@@ -67,9 +75,3 @@
 
 ---
 
-## GitHub Snake Animation
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/github-contribution-grid-snake.svg">
-</picture>
