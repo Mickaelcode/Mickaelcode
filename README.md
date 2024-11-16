@@ -79,8 +79,8 @@
 ---
 
 ## Feeding...
-![GitHub Snake](https://mickaeljoseph.github.io/my-repo/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://mickaeljoseph.github.io/my-repo/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)
+![GitHub Snake](https://Mickaelcode.github.io/my-repo/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://Mickaelcode.github.io/my-repo/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)
 
 
 ---
