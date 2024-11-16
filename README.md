@@ -79,7 +79,24 @@
 ---
 
 ## Feeding...
-<img src="https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/github-contribution-grid-snake-dark.svg" alt="Votre jeu de serpent GitHub">
+<script>
+  // Vérifie si le mode sombre est activé dans le système
+  const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  // Lien vers les fichiers en fonction du mode
+  const imageUrl = isDarkMode
+    ? 'https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/dist/github-contribution-grid-snake-dark.svg'
+    : 'https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/dist/github-contribution-grid-snake.svg';
+
+  // Crée un élément image et l'ajoute au body
+  const imgElement = document.createElement('img');
+  imgElement.src = imageUrl;
+  imgElement.alt = 'Votre jeu de serpent GitHub';
+  
+  // Ajoute l'image à l'endroit voulu dans le README ou page
+  document.body.appendChild(imgElement);
+</script>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
