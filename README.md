@@ -79,13 +79,10 @@
 ---
 
 ## Feeding...
-![GitHub Snake](https://Mickaelcode.github.io/my-repo/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://Mickaelcode.github.io/my-repo/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)
-
-
----
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-<em><b>I genuinely enjoy connecting with new people</b>, so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 
