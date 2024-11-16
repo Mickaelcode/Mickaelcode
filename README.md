@@ -1,4 +1,4 @@
-8 8<h1 align="center">Hi, I'm Mickaël Andjtv 👋</h1>
+<h1 align="center">Hi, I'm Mickaël Joseph 👋</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mickaelcode.Mickaelcode&left_color=royalblue&right_color=black" alt="Visitor Count"/>
 <h3 align="center">A beginner in programming, always learning and improving</h3>
 
@@ -74,7 +74,7 @@
 ---
 
 ## My Rewards:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mickaelcode&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
