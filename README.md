@@ -11,7 +11,7 @@
 ## About Me:
 - 😄 **Current Status**: Software Engineering Student (Second Year)  
 - 🔭 **Looking to Collaborate**: I'm open to working on projects with you! 😁  
-- 📫 **How to Contact Me**: [Email](mailto:mickaelanfriana06@gmail.com)  
+- 📫 **How to Contact Me**: [Email](mailto:mickaelandriana06@gmail.com)  
 - 💬 **Ask Me About**: Backend or Frontend development topics!  
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300" alt="Welcome to Octocat">
