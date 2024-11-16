@@ -64,6 +64,8 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="Red Hat logo" /></code>
   <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu logo" /></code>
+
+  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </div>
 
 ---
