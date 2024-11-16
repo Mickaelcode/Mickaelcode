@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Mickaël Joseph 👋</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mickaelcode.Mickaelcode&left_color=royalblue&right_color=black" alt="Visitor Count"/>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mickaelcode.Mickaelcode&left_color=royalblue&right_color=black" alt="Visitor Count"/>
+</p>
 <h3 align="center">A beginner in programming, always learning and improving</h3>
 
 ❤️ I have a passion for Python (with basic knowledge), JavaScript/TypeScript (React) for frontend development, and Node.js (Express) with PostgreSQL for backend development.
@@ -8,7 +10,7 @@
 
 ---
 
-## About Me:
+## About Me
 - 😄 **Current Status**: Software Engineering Student (Second Year)  
 - 🔭 **Looking to Collaborate**: I'm open to working on projects with you! 😁  
 - 📫 **How to Contact Me**: [Email](mailto:mickaelandriana06@gmail.com)  
@@ -18,7 +20,7 @@
 
 ---
 
-## My Stack:
+## My Stack
 - **3 months experience**: React, Node.js, Express.js  
 - **Beginner**: Python  
 - **Passionate about**: APIs, especially RESTful APIs  
@@ -30,40 +32,27 @@
 
 ---
 
-## Languages and Tools:
+## Languages and Tools
 <div align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" /></code>
-  <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" /></code>
-  <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL logo" /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM logo" /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="Red Hat logo" /></code>
-  <img width="12" />
   <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu logo" /></code>
 </div>
 
 ---
 
-## My Journey:
+## My Journey
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Mickaelcode&show_icons=true&theme=onedark" alt="GitHub Stats">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mickaelcode&layout=compact&theme=onedark" alt="Top Languages">
@@ -73,35 +62,14 @@
 
 ---
 
-## My Rewards:
+## My Rewards
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mickaelcode&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## Feeding...
-<script>
-  // Vérifie si le mode sombre est activé dans le système
-  const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-  // Lien vers les fichiers en fonction du mode
-  const imageUrl = isDarkMode
-    ? 'https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/dist/github-contribution-grid-snake-dark.svg'
-    : 'https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/dist/github-contribution-grid-snake.svg';
-
-  // Crée un élément image et l'ajoute au body
-  const imgElement = document.createElement('img');
-  imgElement.src = imageUrl;
-  imgElement.alt = 'Votre jeu de serpent GitHub';
-  
-  // Ajoute l'image à l'endroit voulu dans le README ou page
-  document.body.appendChild(imgElement);
-</script>
-
+## GitHub Snake Animation
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/dist/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/dist/github-contribution-grid-snake.svg">
 </picture>
-
-
-
