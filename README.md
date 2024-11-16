@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mickaël Andjtv 👋</h1>
+8 8<h1 align="center">Hi, I'm Mickaël Andjtv 👋</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mickaelcode.Mickaelcode&left_color=royalblue&right_color=black" alt="Visitor Count"/>
 <h3 align="center">A beginner in programming, always learning and improving</h3>
 
@@ -90,4 +90,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 <img src="https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/github-contribution-grid-snake.svg" alt="Votre jeu de serpent GitHub">
+
+<img src="https://raw.githubusercontent.com/Mickaelcode/Mickaelcode/output/dist/github-contribution-grid-snake-dark.svg" alt="Votre jeu de serpent GitHub">
+
 
