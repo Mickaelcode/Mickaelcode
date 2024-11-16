@@ -82,6 +82,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mickaelcode&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
+<div>
+<h3 align="left">Other social media</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/njaina-rakotonirina-898248253/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle; margin-left: 10px;" /></a>
+<a href="https://www.facebook.com/profile.php?id=100083645335534&sk=about" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="vertical-align: middle; margin-left: 10px;" /></a>
+</p>
+</div>
 
 
