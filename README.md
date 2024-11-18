@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Mickaël Joseph 👋</h1>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mickaelcode.Mickaelcode&left_color=royalblue&right_color=black" alt="Visitor Count"/>
+  ![](https://api.visitorbadge.io/api/VisitorHit?Mickaelcode=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 </p>
 <h3 align="center">A beginner in programming, always learning and improving</h3>
 
