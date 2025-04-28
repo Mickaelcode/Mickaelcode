@@ -74,7 +74,7 @@
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Mickaelcode&show_icons=true&theme=onedark" alt="GitHub Stats">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mickaelcode&layout=compact&theme=onedark" alt="Top Languages">
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Mickaelcode&theme=github" alt="Activity Graph">
+ [![Mickael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mickaelcode&show_icons=true)](https://github.com/Mickaelcode)
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mickaelcode&theme=onedark" alt="GitHub Streak">
 </div>
 
