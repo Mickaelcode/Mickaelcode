@@ -28,7 +28,7 @@
 - 😄 **Current Status**: Software Engineering Student (Third Year)  
 - 🔭 **Looking to Collaborate**: I'm open to working on projects with you! 😁  
 - 📫 **How to Contact Me**:<div>
-  <a href="mickaelandriana06@gmail.com">
+  <a href="mailto:mickaelandriana06@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23E91E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle; margin-left: 10px;" />
   </a>
 </div>
